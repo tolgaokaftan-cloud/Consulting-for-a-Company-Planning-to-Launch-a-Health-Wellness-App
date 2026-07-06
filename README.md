@@ -1,3 +1,5 @@
 # Consulting-for-a-Company-Planning-to-Launch-a-Health-Wellness-App
 The major aim of this project is to create a predictive model that can forecast individuals' levels of smartphone addiction based on their characteristics. By being able to identify and forecast individuals' levels of smartphone addiction, the firm can improve its application's recommendation and value proposition in the competitive market.
-https://github.com/tolgaokaftan-cloud/Consulting-for-a-Company-Planning-to-Launch-a-Health-Wellness-App/blob/main/index.html
+
+You can view the full HTML version of the project here:
+](https://tolgaokaftan-cloud.github.io/Consulting-for-a-Company-Planning-to-Launch-a-Health-Wellness-App/)

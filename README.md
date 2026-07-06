@@ -7,3 +7,8 @@ The data we collect from that firm will help us to improve their business. The m
 
 You can view the full HTML version of the project here:
 https://tolgaokaftan-cloud.github.io/Consulting-for-a-Company-Planning-to-Launch-a-Health-Wellness-App/
+
+References: 
+Dataset got from, 
+
+Aftab, T. (2026). Digital Habits & Smartphone Addiction Dataset. [online] Kaggle.com. Available at: https://www.kaggle.com/datasets/guriya79/smart-phone/data?select=Smartphone_Usage_And_Addiction_Analysis_7500_Rows.csv [Accessed 26 Mar. 2026].
